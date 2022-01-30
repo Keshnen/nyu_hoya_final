@@ -1,0 +1,2 @@
+# nyu_hoya_final
+Our website is designed to store tasks that you should do every single day to help the environment. For example, “I will recycle 2 items today” or “I will remember to switch off the lights when I leave a room.” Once you have completed the task, you can check it off — leading to an apple growing on the tree. The apples growing on the tree will motivate people to complete their tasks daily, and give them a visual representation of them saving their planet.
